@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Page-1" id="7wjzDd1smqnZDDmsKmdo">
+    <mxGraphModel dx="1670" dy="570" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rGmXh9R7U4KUdcGyqJDX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Race-car Simulator" vertex="1">
+          <mxGeometry height="30" width="120" x="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PNGwUY3kR_0liSx0bIL1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Car Information Page" vertex="1">
+          <mxGeometry height="35" width="110" x="-225" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="PNGwUY3kR_0liSx0bIL1-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Track Information Page" vertex="1">
+          <mxGeometry height="35" width="105" x="105" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="PNGwUY3kR_0liSx0bIL1-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simulation" vertex="1">
+          <mxGeometry height="25" width="70" x="675" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PNGwUY3kR_0liSx0bIL1-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Results Page" vertex="1">
+          <mxGeometry height="30" width="70" x="980" y="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kTA39hYfVF-MKtoh0WYZ" name="Page-2">
+    <mxGraphModel dx="1222" dy="826" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
